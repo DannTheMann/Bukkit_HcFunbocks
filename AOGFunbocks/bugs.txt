@@ -1,3 +1,3 @@
-1. Double death on pvp round
-2. PvP round doesn't tp everyone to shop
+1. Double death on pvp round, the message repeats twice as well the effects of dying twice.
+2. PvP round doesn't tp everyone to shop when over
 3. Shouldn't end round if boss round is on
