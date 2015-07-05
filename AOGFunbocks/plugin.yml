@@ -1,0 +1,9 @@
+name: HcFunbocks
+version: 1
+main: aog.minigame.funbocks.Main
+author: danslayerx
+description: Funbocks!
+depend: [Vault]
+commands:
+   fb:
+      description: Join funbocks, monitor, or just control it.
